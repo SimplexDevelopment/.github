@@ -14,8 +14,8 @@
 <br>
 [<img src="https://img.shields.io/badge/FeelingLucky-Luck%20Driven%20Mechanics%20Plugin-774360?style=for-the-badge">](https://github.com/SimplexDevelopment/FeelingLucky)
 # Code Quality
+![Code Quality](https://img.shields.io/badge/Code%20Quality-A+-brightgreen?style=for-the-badge)
 ![Primary Language](https://img.shields.io/badge/Java-100%25-blue?style=for-the-badge)
-![Code Quality](https://img.shields.io/badge/Code%20Quality-A+-green?style=for-the-badge)
-![Issues](https://img.shields.io/badge/Issues-2-yellow?style=for-the-badge)
+![Issues](https://img.shields.io/badge/Issues-2-brightyellow?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Stars-14-blue?style=for-the-badge)
 ![Pull Requests](https://img.shields.io/badge/Pull%20Requests-0-blue?style=for-the-badge)
