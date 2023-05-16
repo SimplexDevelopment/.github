@@ -1,6 +1,7 @@
 # Social Links
 [<img src="https://img.shields.io/badge/Discord-Join%20our%20discord!-F49D1A?style=for-the-badge">](https://discord.gg/4PdtmrVNRx)
 [<img src="https://img.shields.io/badge/Team%20Owner-Paldiu-F49D1A?style=for-the-badge">](https://github.com/Paldiu)
+[<img src="https://img.shields.io/badge/Team%20Manager-VideoGameSmash12-F49D1A?style=for-the-badge">](https://github.com/VideoGameSmash12)
 # Noteworthy Contributions
 [<img src="https://img.shields.io/badge/SimplexCore-Generic%20API%20for%20Bukkit-FF6000?style=for-the-badge">](https://github.com/SimplexDevelopment/SimplexCore)
 [<img src="https://img.shields.io/badge/SimplexSS-Service%20Scheduler-FF6000?style=for-the-badge">](https://github.com/SimplexDevelopment/SimplexSS)
