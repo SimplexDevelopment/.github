@@ -8,3 +8,4 @@
 [<img src="https://img.shields.io/badge/Traverse-Server%20Management-yellow?style=for-the-badge">](https://github.com/SimplexDevelopment/Traverse)
 [<img src="https://img.shields.io/badge/FreedomNetworkSuite-Freedom%20Server%20Modules-orange?style=for-the-badge">](https://github.com/SimplexDevelopment/FreedomNetworkSuite)
 [<img src="https://img.shields.io/badge/FeelingLucky-Luck%20Driven%20Mechanics%20Plugin-green?style=for-the-badge">](https://github.com/SimplexDevelopment/FeelingLucky)
+[<img src="https://img.shields.io/badge/Polarize-Coordinate%20Conversion%20Library-light_blue?style=for-the-badge">](https://github.com/SimplexDevelopment/Polarize)
