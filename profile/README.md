@@ -1,4 +1,4 @@
-# Social Links
+# Information
 [<img src="https://img.shields.io/badge/Help%20Wanted-Join%20Our%20Team!-8F43EE?style=for-the-badge">](https://discord.com/users/180886193594957824)
 [<img src="https://img.shields.io/discord/813170890517905490?color=8F43EE&label=SimplexDev&logo=Discord&logoColor=efefef&style=for-the-badge">](https://discord.gg/4PdtmrVNRx)
 [<img src="https://img.shields.io/badge/Team%20Owner-Paldiu-8F43EE?style=for-the-badge">](https://github.com/Paldiu)
