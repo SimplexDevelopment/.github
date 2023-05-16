@@ -23,21 +23,21 @@
 
 # Simplex Development Group
 
-<pre>
+<p>
 Simplex Development Group is a Java-based development team focused on providing quality APIs and libraries to developers designed to reduce boilerplate code and simplify the coding process for certain platforms.
 The main focus of this development team are libraries designed for the Bukkit / Spigot / Paper API.
 All of our projects are intended to be ready for developers to use out of the box with little effort and minimal documentation referencing.
 Projects will still contain JavaDocs, to ensure that overall we maintain easy understandability for the code we provide.
-</pre>
-<p>
+<br>
+<br>
 This development team is currently focused on a large scale network project called the Freedom Network Suite, a collection of modular plugins designed for server networks designed around the "Freedom" concept; the idea that every player should have (within reason) no limitations or restrictions on the things they are allowed to do. This includes allowing free access to switching gamemode types, creating unrestricted nbt data for items, and most importantly no paywall for features like WorldEdit, GoBrush, LibsDisguises, etc.
-</p>
-<pre>
+<br>
+<br>
 Our most popular / most active repositories are listed above, you can click any of the badges to link directly to the associated repository.
 All of our projects are open source, and most of them are licensed under the MIT license. Ultimately, we are focused on providing useful, free resources to any developer who seeks to use them.
 We operate under the ideology that creating things should be free to do, and the necessary resources that you need to make them should be also..
-</pre>
-<p>
+<br>
+<br>
 For more information, please check our discord server or contact our team management directly, through the badges provided above.
 We are also looking for more contributors. If you're interested in contributing, please reach out to the team owner, Paldiu.
 Clicking on the "Help Wanted" badge will link you directly to their discord profile.
