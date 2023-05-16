@@ -12,3 +12,5 @@
 ![Primary Language](https://img.shields.io/badge/Java-100%25-F49D1A?style=for-the-badge)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A+-green?style=for-the-badge)
 ![Issues](https://img.shields.io/badge/Issues-2-yellow?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Stars-14-blue?style=for-the-badge)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-0-blue?style=for-the-badge)
