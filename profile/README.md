@@ -1,5 +1,6 @@
 # Social Links
-[<img src="https://img.shields.io/badge/Discord-Join%20our%20discord!-8F43EE?style=for-the-badge">](https://discord.gg/4PdtmrVNRx)
+[<img src="https://img.shields.io/badge/Help%20Wanted-Join%20Our%20Team!-8F43EE?style=for-the-badge">](https://discord.com/users/180886193594957824)
+[<img src="https://img.shields.io/discord/813170890517905490?color=5F65E0&label=SimplexDev&logo=Discord&logoColor=efefef&style=for-the-badge)">](https://discord.gg/4PdtmrVNRx)
 [<img src="https://img.shields.io/badge/Team%20Owner-Paldiu-8F43EE?style=for-the-badge">](https://github.com/Paldiu)
 [<img src="https://img.shields.io/badge/Team%20Manager-VideoGameSmash12-8F43EE?style=for-the-badge">](https://github.com/VideoGameSmash12)
 # Noteworthy Contributions
@@ -16,6 +17,6 @@
 # Code Quality
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A+-brightgreen?style=for-the-badge)
 ![Primary Language](https://img.shields.io/badge/Java-100%25-blue?style=for-the-badge)
-![Issues](https://img.shields.io/badge/Issues-2-brightyellow?style=for-the-badge)
+![Issues](https://img.shields.io/badge/Issues-2-red?style=for-the-badge)
 ![Stars](https://img.shields.io/badge/Stars-14-blue?style=for-the-badge)
 ![Pull Requests](https://img.shields.io/badge/Pull%20Requests-0-blue?style=for-the-badge)
