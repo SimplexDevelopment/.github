@@ -1,4 +1,6 @@
+# Social Links
 [<img src="https://img.shields.io/badge/Discord-Join%20our%20discord!-blue?style=for-the-badge">](https://discord.gg/4PdtmrVNRx)
+[<img src="https://img.shields.io/badge/Team%20Owner-Paldiu-blue?style=for-the-badge">](https://github.com/Paldiu)
 # Noteworthy Contributions
 [<img src="https://img.shields.io/badge/SimplexSS-Service%20Scheduler-red?style=for-the-badge">](https://github.com/SimplexDevelopment/SimplexSS)
 [<img src="https://img.shields.io/badge/SimplexCL-Command%20Loader-blue?style=for-the-badge">](https://github.com/SimplexDevelopment/SimplexCL)
