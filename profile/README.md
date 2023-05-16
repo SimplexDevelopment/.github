@@ -2,6 +2,7 @@
 [<img src="https://img.shields.io/badge/Discord-Join%20our%20discord!-F49D1A?style=for-the-badge">](https://discord.gg/4PdtmrVNRx)
 [<img src="https://img.shields.io/badge/Team%20Owner-Paldiu-F49D1A?style=for-the-badge">](https://github.com/Paldiu)
 # Noteworthy Contributions
+[<img src="https://img.shields.io/badge/SimplexCore-Bukkit%20Library%20and%20API-FF6000?style=for-the-badge">](https://github.com/SimplexDevelopment/SimplexCore)
 [<img src="https://img.shields.io/badge/SimplexSS-Service%20Scheduler-FF6000?style=for-the-badge">](https://github.com/SimplexDevelopment/SimplexSS)
 [<img src="https://img.shields.io/badge/SimplexCL-Command%20Loader-FF6000?style=for-the-badge">](https://github.com/SimplexDevelopment/SimplexCL)
 [<img src="https://img.shields.io/badge/Traverse-Server%20Management-F0EB8D?style=for-the-badge">](https://github.com/SimplexDevelopment/Traverse)
