@@ -3,6 +3,8 @@
 [<img src="https://img.shields.io/discord/813170890517905490?color=8F43EE&label=SimplexDev&logo=Discord&logoColor=efefef&style=for-the-badge">](https://discord.gg/4PdtmrVNRx)
 [<img src="https://img.shields.io/badge/Team%20Owner-Paldiu-8F43EE?style=for-the-badge">](https://github.com/Paldiu)
 [<img src="https://img.shields.io/badge/Team%20Manager-VideoGameSmash12-8F43EE?style=for-the-badge">](https://github.com/VideoGameSmash12)
+![Followers](https://img.shields.io/github/followers/SimplexDevelopment?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/SimplexDevelopment?style=for-the-badge)
 # Popular / Active Projects
 [<img src="https://img.shields.io/badge/Polarize-Coordinate%20Conversion%20Library-F49D1A?style=for-the-badge">](https://github.com/SimplexDevelopment/Polarize)
 [<img src="https://img.shields.io/badge/SimplexCore-Generic%20API%20for%20Bukkit-F49D1A?style=for-the-badge">](https://github.com/SimplexDevelopment/SimplexCore)
